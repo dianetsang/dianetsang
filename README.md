@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianetsang
 - 👀 I’m interested in self-improvement as a coder and Software Engineering student!
-- 🌱 I’m currently learning software quality assurance, user interface design, operating systems, linear algebra and much more!
+- 🌱 I’m currently learning databases, statistics for engineers, engineering ethics, software construction, discrete structures and much more!
 - 🧮 Also learning web dev with Udemy ✨
 
 <!---
